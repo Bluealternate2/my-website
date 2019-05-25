@@ -7,3 +7,8 @@ Updates made on master on Github before rebase
   Repository Purpose
 
 This file is just a rebase file
+
+## PUrpose
+
+The purpose of this file is to provide examples
+on how to use Git and GitHyb together.
