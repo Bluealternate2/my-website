@@ -12,3 +12,7 @@ This file is just a rebase file
 
 The purpose of this file is to provide examples
 on how to use Git and GitHyb together.
+
+## Getting Started
+
+To get started with this project, just 'clone' this respository.
